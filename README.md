@@ -31,4 +31,15 @@ A user-friendly web application that recommends books based on popularity and co
 - **Interface:** Jupyter Notebook, Flask Web App
 
 ---
+## 📥 Dataset
 
+To keep file sizes manageable, the dataset is hosted on Google Drive.  
+The notebook will automatically download them using `gdown`.
+
+If you prefer manual download:
+
+- 📘 [Books.csv](https://drive.google.com/file/d/1iBV9WRFnkKnMlAL5ouJHp231lvx5-3S3/view?usp=sharing)
+- ⭐ [Ratings.csv](https://drive.google.com/file/d/1SATpjH_MhRowN8o52SxJe9YJPPyB_0-Y/view?usp=sharing)
+- 👤 [Users.csv](https://drive.google.com/file/d/1yRbdWZL3eUBtFqM6MWriEKRgUE3M0I_c/view?usp=sharing)
+
+Ensure all files are in the same directory as the notebook before running it.
